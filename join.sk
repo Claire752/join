@@ -1,0 +1,26 @@
+# /join
+# Coded By WDW_Mickey
+# Requirements: Skript
+#############
+## EXAMPLE ##
+#############
+#command /join:
+#	trigger:
+#		message "&5&l-=&d&lPlaces&5&l=-" to player
+#		message "&a- &bAdventure Peak Resort: &3&n/APR" to player
+#		message "&8_" to player
+#		message "&a- &bWorld of Adventure: &3&n/WOA" to player
+#		message "&a- &bNordic Park: &3&n/NP" to player
+#		message "&8_" to player
+#		message "&a- &bCreative: &3&n/Creative" to player
+#		message "&8_" to player
+#		message "&a- &bTTC: &3&n/TTC" to player
+#		message "&8_" to player
+#		message "&a- &bHub: &3&n/Hub" to player
+#############################################################
+
+
+command /join:
+	trigger:
+		message "&5&l-=&d&lPlaces&5&l=-" to player
+		message "&a- &cMiniGames: &e&n/MiniGames" to player
